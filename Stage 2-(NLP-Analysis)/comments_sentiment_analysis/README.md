@@ -6,5 +6,29 @@ The first option was TextBlob which is built on top of NLTK, and it’s more eas
 
 The main differences between them illustrated in the below table
 
+<table>
+  <tr>
+    <th>Library Type</th>
+    <th>Positive</th>
+    <th>Neutral</th>
+    <th>Negative</th>
+  </tr>
+  <tr>
+    <td>Textblob</td>
+    <td>0.4</td>
+    <td>0.4</td>
+    <td>0.4</td>
+  </tr>
+  <tr>
+    <td>Stanford Corenlp</td>
+    <td>0.4</td>
+    <td>0.4</td>
+    <td>0.4</td>
+  </tr>
+</table>
+
+
+
+
 
 ![](stage2b.png)
