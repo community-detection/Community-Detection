@@ -16,18 +16,17 @@ The below table shows the percentages for positive/negative/neutral when using t
   </tr>
   <tr>
     <td>Textblob</td>
-    <td>0.4</td>
-    <td>0.4</td>
-    <td>0.4</td>
+    <td>0.46</td>
+    <td>0.38</td>
+    <td>0.14</td>
   </tr>
   <tr>
     <td>Stanford Corenlp</td>
-    <td>0.4</td>
-    <td>0.4</td>
-    <td>0.4</td>
+    <td>0.22</td>
+    <td>0.53</td>
+    <td>0.20</td>
   </tr>
 </table>
-
 
 
 
