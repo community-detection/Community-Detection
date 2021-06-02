@@ -38,12 +38,12 @@ The below table shows the accurcy and f1-score when using textblob and Stanford 
   </tr>
   <tr>
     <td>Textblob</td>
-    <td>15.7190635451505</td>
+    <td>0.157190635451505</td>
     <td> 0.1240112114606</td>
   </tr>
   <tr>
     <td>Stanford Corenlp</td>
-    <td>36.09958506224066</td>
+    <td>0.3609958506224066</td>
     <td>0.204283590</td>
   </tr>
 </table>
